@@ -1,0 +1,78 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "overworldmirror:overworld",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -5682536744056409080
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "overworldmirror:overworld",
+			"seed": -5682536744056409080
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -5682536744056409080
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	id: "136e7ef5-b816-3d1a-8822-ea652e5ee602"
+	type: "player"
+	player_name: "itzmefronc"
+	ranks: {
+		136e7ef5-b816-3d1a-8822-ea652e5ee602: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "itzmefronc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

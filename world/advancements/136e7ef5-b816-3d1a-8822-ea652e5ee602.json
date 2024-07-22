@@ -1,0 +1,992 @@
+{
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-07-14 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 01:59:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 01:59:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 02:14:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 01:59:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-14 01:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2024-07-14 01:59:17 +0000"
+    },
+    "done": false
+  },
+  "mimi:recipes/receiver": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/bottle": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/xylophone": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/marimba": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/recorder": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/drums": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/harpsichord": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/contrabass": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_diamond": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_emerald": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/deviceconfig": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/piccolo": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/tuningtable": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/clarinet": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/banjo": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_diamond": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/blue": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ocarina": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/keyboard": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/piano": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_diamond": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/frenchhorn": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_emerald": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/flute": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/guide": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/woodblock": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/mechanicalmaestro": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_iron": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "solapplepie:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2024-07-14 02:09:15 +0000",
+      "has_book": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/transmitter": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/synlead": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/transmitterblock": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_diamond_to_wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/piggy_bank": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/glockenspiel": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_iron": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/celesta": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/panflute": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/harmonica": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_diamond": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/elecguitar": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-07-14 02:09:15 +0000",
+      "has_fillet_knife": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-07-14 02:09:15 +0000",
+      "has_fillet_knife": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/harp": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/tuba": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/cello": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/violin": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/bassoon": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/bagpipe": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_copper": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/vibraphone": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2024-07-14 02:09:15 +0000",
+      "has_axe": "2024-07-14 02:09:15 +0000",
+      "has_helmet": "2024-07-14 02:09:15 +0000",
+      "has_fishing_rod": "2024-07-14 02:09:15 +0000",
+      "has_bow": "2024-07-14 02:09:15 +0000",
+      "has_chestplate": "2024-07-14 02:09:15 +0000",
+      "has_sword": "2024-07-14 02:09:15 +0000",
+      "has_fillet_knife": "2024-07-14 02:09:15 +0000",
+      "has_shovel": "2024-07-14 02:09:15 +0000",
+      "has_hoe": "2024-07-14 02:09:15 +0000",
+      "has_boots": "2024-07-14 02:09:15 +0000",
+      "has_pickaxe": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_diamond": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_a": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_b": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_c": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_d": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_e": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_f": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_g": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_h": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_gold": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_gold": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/steeldrum": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2024-07-14 02:09:15 +0000",
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/trumpet": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/acguitar": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/kalimba": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_gold": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/listener": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/musicbox": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/saxophone": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/timpani": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/ledcube_a_def": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/prophet": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/viola": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/wallet_crafting": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/bassguitar": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/relay": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_emerald": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/microphone": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/organ": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_emerald": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-07-14 02:09:15 +0000",
+      "has_fillet_knife": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/effectemitter": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/oboe": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/accordion": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/handbell": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/trombone": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_netherite": {
+    "criteria": {
+      "wallet": "2024-07-14 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/edrums": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-07-14 02:09:15 +0000",
+      "has_fillet_knife": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "mimi:recipes/tubularbells": {
+    "criteria": {
+      "has_note": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2024-07-14 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
